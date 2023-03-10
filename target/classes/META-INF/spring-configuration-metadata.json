@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.neighborhood.configuration.properties.AppProperties",
+      "sourceType": "com.neighborhood.configuration.properties.AppProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.auth",
+      "type": "com.neighborhood.configuration.properties.Auth",
+      "sourceType": "com.neighborhood.configuration.properties.AppProperties"
+    },
+    {
+      "name": "app.oauth2",
+      "type": "com.neighborhood.configuration.properties.OAuth2",
+      "sourceType": "com.neighborhood.configuration.properties.AppProperties"
+    }
+  ],
+  "hints": []
+}
