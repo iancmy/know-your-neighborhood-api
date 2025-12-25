@@ -27,7 +27,7 @@ integrations.
 
 ## ⚙️ Setup & Installation
 
-1. **Clone the repository:** `git clone <repo-url>`
+1. **Clone the repository:** `git clone https://github.com/iancmy/know-your-neighborhood-api`
 2. **Database Configuration:**
    - Create a MySQL database.
    - Update `src/main/resources/application.yml` with your database credentials
